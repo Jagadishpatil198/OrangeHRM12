@@ -24,7 +24,7 @@ public class Capture_Defect implements FrameworkConstants {
 	catch(IOException e)
 	{
 		System.out.println("screenshot is not captured");
-	}
+	}System.out.println("screenshot is not captured");
 	
 	
 	}
